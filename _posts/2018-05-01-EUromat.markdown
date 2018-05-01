@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+date: 2018-05-01
+img: euromat.png
+alt: image-alt
+project-date: April 2018
+client: Start Bootstrap
+category: EUromat
+description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+
+---
+
+EUromat – der europäische Parteien-Check
+
+Unter dem Slogan „17 EU-Fragen für die #btw17“ haben die Jungen Europäischen Föderalisten Sachsen ein Frage-Antwort-Tool entworfen, das unentschiedenen Bürger helfen soll, am 24. September die passende Partei zu finden. EUromat heißt das Tool, welches ausschließlich die europapolitischen Positionen der Wählerinnen und Wähler erfragt. „Die Idee entstand bei unserer Simulation Europäisches Parlament, die im März in Dresden stattgefunden hat. Dabei kam uns das Thema Europa bei den letzten Wahlen zu kurz. Die EU spielt für Deutschland allerdings eine sehr große Rolle, deswegen sollte das Thema EU bei der Wahlentscheidung Beachtung finden. Schnell war uns klar, dass wir ein Tool entwerfen wollen, welches die europapolitischen Positionen der Bürgerinnen und Bürger abfragen soll“, meint Maria-Teresa Rölke, Landesvorsitzende der JEF Sachsen. Neben dem Frage-Antwort-Tool haben die Nutzerinnen und Nutzer noch die Möglichkeit, sich über die Positionen der Parteien zu einzelnen Themenkomplexen zu informieren. Zu diesem Zweck wurde eine Wahlprogrammanalyse erstellt. Mehr Infos gibt es auf der Website des EUromaten.
