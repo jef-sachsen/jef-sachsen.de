@@ -1,0 +1,55 @@
+# Site settings
+title: JEF Sachsen
+email: vorstand@jef-sachsen.de
+url: https://jef-sachsen.de
+description: "Herzlich Willkommen bei den Jungen Europäischen Föderalisten Sachsen. Hier findest Du die aktuellen Infos zu unseren Projekten und alle notwendigen Kontaktinformationen!"
+keywords: "jef, sachsen, europe, europa, junge europäische föderalisten"
+subtitle: "Jung, europäisch, föderal!"
+meta_author: Felix Förtsch
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+# contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+# disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 444444   #80B3FF
+  primary-rgb: "0,204,102" #"128,179,255"
+  secondary: 00CC66 #FD6E8A
+  highlight-dark: 444444 #A2122F
+  font: 444444
+
+# Footer settings
+footer:
+  copyright: JEF Sachsen
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/JEFSachsen
+  - title: facebook
+    url: https://www.facebook.com/JEFSachsen
+  - title: github
+    url: https://github.com/jef-sachsen
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: <strong>JEF Sachsen</strong>
+  - line: Kurt-Eisner-Straße 55
+  - line: 04275 Leipzig
+
+# Build settings
+markdown: kramdown
+permalink: pretty
