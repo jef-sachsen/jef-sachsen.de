@@ -53,3 +53,4 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: [vendor]
